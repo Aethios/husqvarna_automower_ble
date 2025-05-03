@@ -1,5 +1,5 @@
 {
-  "name": "Aethios Automower BLE",
+  "name": "Husqvarna Automower BLE",
   "content_in_root": true,
-  "country": ["US"]
+  "country": "US"
 }
