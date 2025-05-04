@@ -1,5 +1,5 @@
 {
   "name": "Husqvarna Automower BLE",
-  "content_in_root": true,
+  "homeassistant": "2025.4.4",
   "country": "US"
 }
